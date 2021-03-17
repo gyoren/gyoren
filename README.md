@@ -1,5 +1,5 @@
-- Hey, I’m @lithium-umbreon
+- Hey, I’m **lithium**
 - I program mainly in Python, but am learning C++
 - I do projects solo, any help via issues or pull requests is appreciated though!
-- Discord: 𝐥𝐢𝐭𝐡𝐢𝐮𝐦 (lithium)#6995
-- Twitter: lithium_umbreon
+- Discord: `𝐥𝐢𝐭𝐡𝐢𝐮𝐦 (lithium)#6995`
+- Twitter: `lithium_umbreon`
