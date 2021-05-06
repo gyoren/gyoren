@@ -1,4 +1,4 @@
-- Hey, I’m **lithium**
+- Hey, I’m **lrtz**
 - I program mainly in Python, but am learning C++
 - I do projects solo, any help via issues or pull requests is appreciated though!
 - Discord: `lrtz#6995`
