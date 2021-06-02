@@ -1,5 +1,5 @@
 - Hey, I’m **lrtz**
-- I program mainly in Python, but I do know JS, Wolfram Language and am learning Ruby and TS
+- I program mainly in Python, but I do know JS and Wolfram Language and I am also learning Ruby and TS.
 - I do projects solo, any help via issues or pull requests is appreciated though!
 - Discord: `lrtz#0001`
 - Twitter: `lrtz__`
