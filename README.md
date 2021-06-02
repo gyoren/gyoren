@@ -1,5 +1,5 @@
 - Hey, I’m **lrtz**
 - I program mainly in Python, but I will start putting time into C at some point
 - I do projects solo, any help via issues or pull requests is appreciated though!
-- Discord: `lrtz#6995`
+- Discord: `lrtz#0001`
 - Twitter: `lrtz__`
