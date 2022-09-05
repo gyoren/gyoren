@@ -1,5 +1,5 @@
-- Hey, I’m **lrtz**
-- I *used to* program mainly in Python, but now I know JS, V (main language I use in programming) and some C.
-- I do projects solo, any help via issues or pull requests is appreciated though!
-- Discord: `lrtz#6123`
-- Twitter: `@lrtz0`
+- hey, I’m **gyoren**
+- i program mainly in c, however i also know rust, v and python
+- i do projects solo, any help via issues or pull requests is appreciated though!
+- discord: `gyoren#6123`
+- twitter: `@_gyoren`
