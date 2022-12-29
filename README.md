@@ -1,5 +1,5 @@
 - hey, I’m **gyoren**
-- i program mainly in c, however i also know rust, v and python
+- mainly proram in nim, also know some c, v, rust, javascript and python
 - i do projects solo, any help via issues or pull requests is appreciated though!
 - discord: `gyoren#6123`
 - twitter: `@_gyoren`
