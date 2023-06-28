@@ -1,5 +1,5 @@
 - hey, I’m **gyoren**
 - mainly program in nim, also know some c, v, rust, javascript and python
 - i do projects solo, any help via issues or pull requests is appreciated though!
-- discord: `gyoren#6123`
+- discord: `@gyoren`
 - twitter: `@_gyoren`
